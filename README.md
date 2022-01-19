@@ -6,7 +6,9 @@ A simple and handy extension for [Visual Studio Code](http://code.visualstudio.c
 
 ## How to build and install
 
-- Make changes
+- Install vsce: `npm install -g vsce`
+- Install deps: `npm install`
+- Make glorious changes
 - Update version number in `package.json`
 - Build package: `vsce package`
 - Install package: `code --install-extension todotasks-plus-x.x.x.vsix`

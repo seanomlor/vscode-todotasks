@@ -2,7 +2,7 @@
   "name": "todotasks-plus",
   "displayName": "To Do Tasks +",
   "description": "A To Do tasks extension for Visual Studio Code",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "publisher": "seanomlor",
   "engines": {
     "vscode": "^1.14.0"
